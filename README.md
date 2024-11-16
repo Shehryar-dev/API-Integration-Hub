@@ -50,3 +50,11 @@ Clone the repository and run it in your development environment. Ensure that API
 Your feedback is invaluable! Connect with me, share your thoughts, or discuss your experiences with API integrations.
 
 
+---
+## 💼 Connect
+
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/shehryarkhandiv)
+- **GitHub**: [GitHub](https://github.com/Shehryar-dev)
+- **Twitter**: [X Account](https://x.com/Morphues_S)
+- **Portfolio**: [Portfolio](https://shehriyar-portfolio-v2.netlify.app/)
+
