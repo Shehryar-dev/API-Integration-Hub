@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Morpheus\\All Projects\\Asp Net projects\\Api Assignment\\Api Assignment\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Api Assignment.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Api Assignment.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Morpheus\\All Projects\\Asp Net projects\\Api Assignment\\Api Assignment\\wwwroot\\assets\\.txt",
+      "PackagePath": "staticwebassets\\assets\\.txt"
+    },
+    {
+      "Id": "D:\\Morpheus\\All Projects\\Asp Net projects\\Api Assignment\\Api Assignment\\wwwroot\\assets\\AstyleM.css",
+      "PackagePath": "staticwebassets\\assets\\AstyleM.css"
+    },
+    {
+      "Id": "D:\\Morpheus\\All Projects\\Asp Net projects\\Api Assignment\\Api Assignment\\wwwroot\\assets\\home\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\home\\bg.jpg"
+    },
+    {
+      "Id": "D:\\Morpheus\\All Projects\\Asp Net projects\\Api Assignment\\Api Assignment\\wwwroot\\assets\\home\\hero1.png",
+      "PackagePath": "staticwebassets\\assets\\home\\hero1.png"
+    },
+    {
+      "Id": "D:\\Morpheus\\All Projects\\Asp Net projects\\Api Assignment\\Api Assignment\\wwwroot\\assets\\home\\logo1.png",
+      "PackagePath": "staticwebassets\\assets\\home\\logo1.png"
+    },
+    {
+      "Id": "D:\\Morpheus\\All Projects\\Asp Net projects\\Api Assignment\\Api Assignment\\wwwroot\\assets\\home\\style.css",
+      "PackagePath": "staticwebassets\\assets\\home\\style.css"
+    },
+    {
+      "Id": "D:\\Morpheus\\All Projects\\Asp Net projects\\Api Assignment\\Api Assignment\\wwwroot\\assets\\meat.css",
+      "PackagePath": "staticwebassets\\assets\\meat.css"
+    },
+    {
+      "Id": "D:\\Morpheus\\All Projects\\Asp Net projects\\Api Assignment\\Api Assignment\\wwwroot\\assets\\meat.js",
+      "PackagePath": "staticwebassets\\assets\\meat.js"
+    },
+    {
+      "Id": "D:\\Morpheus\\All Projects\\Asp Net projects\\Api Assignment\\Api Assignment\\wwwroot\\assets\\movie.js",
+      "PackagePath": "staticwebassets\\assets\\movie.js"
+    },
+    {
+      "Id": "D:\\Morpheus\\All Projects\\Asp Net projects\\Api Assignment\\Api Assignment\\wwwroot\\assets\\p4.png",
+      "PackagePath": "staticwebassets\\assets\\p4.png"
+    },
+    {
+      "Id": "D:\\Morpheus\\All Projects\\Asp Net projects\\Api Assignment\\Api Assignment\\wwwroot\\assets\\weather.js",
+      "PackagePath": "staticwebassets\\assets\\weather.js"
+    },
+    {
+      "Id": "D:\\Morpheus\\All Projects\\Asp Net projects\\Api Assignment\\Api Assignment\\wwwroot\\assets\\weatherStyle.css",
+      "PackagePath": "staticwebassets\\assets\\weatherStyle.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Api Assignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Api Assignment.props",
+      "PackagePath": "build\\Api Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Api Assignment.props",
+      "PackagePath": "buildMultiTargeting\\Api Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Api Assignment.props",
+      "PackagePath": "buildTransitive\\Api Assignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,105 @@
+﻿@{
+    Layout = "_weather";
+    string baseUrl = "https://openweathermap.org/img/w";
+
+}
+@model Api_Assignment.Models.WeatherViewModel
+
+<div id="loader-wrapper">
+    <div id="loader"></div>
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+</div>
+<div class="main">
+    <h1 class="animate animated fadeInDown text-center mt-5">
+        <i class="wi wi-day-rain-wind"></i> Morpheus Weather
+        Api
+    </h1>
+
+
+    <div class="container w-100 m-auto animate animated bounceInDown" style="z-index: 1000;">
+        <form method="post">
+            <input type="text" id="input" name="city" class="fadeInDown" placeholder="Search Weather ☀ 🌙 ☔ ⛄" autocomplete="off">
+        <br>
+            <button class="btn animate animated bounceInDown" type="submit" >
+                <span ></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            Search
+        </button>
+        </form>
+    </div>
+
+</div>
+
+
+@if (Model != null)
+{
+    <div class="container-fluid mt-5">
+        <div class="row">
+            <div class="col">
+                <div class="text-center">
+                    <div id="get_Weather">
+                        <div class="weather-card">
+                            <div class="top">
+                                <div class="wrapper">
+                                    <h2 id="heading" class="animate animated fadeInDown">
+                                        @Model.Description
+                                        <img src="@($"{baseUrl}/{Model.Icon}.png")" alt="weather icon">
+                                    </h2>
+                                    <h3 id="location" class="animate animated fadeInDown">@Model.City</h3>
+                                    <p class="temp" id="unit">
+                                        <span id="temp-value" class="animate animated fadeInLeft">@Model.Temperature°C</span>
+                                        <span class="temp-type" id="temp-unit"></span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Include your animation script -->
+    <script>
+        function weather() {
+            var duration = 15 * 1000;
+            var animationEnd = Date.now() + duration;
+            var skew = 1;
+
+            function randomInRange(min, max) {
+                return Math.random() * (max - min) + min;
+            }
+
+            (function frame() {
+                var timeLeft = animationEnd - Date.now();
+                var ticks = Math.max(200, 500 * (timeLeft / duration));
+                skew = Math.max(0.8, skew - 0.001);
+
+                confetti({
+                    particleCount: 1,
+                    startVelocity: 0,
+                    ticks: ticks,
+                    origin: {
+                        x: Math.random(),
+                        y: (Math.random() * skew) - 0.2
+                    },
+                    colors: ['#ffffff'],
+                    shapes: ['circle'],
+                    gravity: randomInRange(0.4, 0.6),
+                    scalar: randomInRange(0.4, 1),
+                    drift: randomInRange(-0.4, 0.4)
+                });
+
+                if (timeLeft > 0) {
+                    requestAnimationFrame(frame);
+                }
+            }());
+        }
+
+        // Call the weather function to start the animation
+        weather();
+    </script>
+}

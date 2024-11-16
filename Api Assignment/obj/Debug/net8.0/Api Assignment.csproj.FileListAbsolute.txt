@@ -1,0 +1,72 @@
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\bin\Debug\net8.0\appsettings.json
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\bin\Debug\net8.0\Api Assignment.staticwebassets.runtime.json
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\bin\Debug\net8.0\Api Assignment.exe
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\bin\Debug\net8.0\Api Assignment.deps.json
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\bin\Debug\net8.0\Api Assignment.runtimeconfig.json
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\bin\Debug\net8.0\Api Assignment.dll
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\bin\Debug\net8.0\Api Assignment.pdb
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.AssemblyInfoInputs.cache
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.AssemblyInfo.cs
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.csproj.CoreCompileInputs.cache
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.RazorAssemblyInfo.cache
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.RazorAssemblyInfo.cs
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\staticwebassets\msbuild.Api Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\staticwebassets\msbuild.build.Api Assignment.props
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api Assignment.props
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api Assignment.props
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\scopedcss\bundle\Api Assignment.styles.css
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\scopedcss\projectbundle\Api Assignment.bundle.scp.css
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.dll
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\refint\Api Assignment.dll
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.pdb
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.genruntimeconfig.cache
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\ref\Api Assignment.dll
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\scopedcss\Views\Shared\_weather.cshtml.rz.scp.css
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\scopedcss\Views\Shared\_movie.cshtml.rz.scp.css
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\scopedcss\Views\Shared\_meal.cshtml.rz.scp.css
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.csproj.AssemblyReference.cache
+C:\Users\SAFEER\OneDrive\Desktop\Assignments\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assi.544F6A2A.Up2Date
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\bin\Debug\net8.0\appsettings.Development.json
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\bin\Debug\net8.0\appsettings.json
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\bin\Debug\net8.0\Api Assignment.staticwebassets.runtime.json
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\bin\Debug\net8.0\Api Assignment.exe
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\bin\Debug\net8.0\Api Assignment.deps.json
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\bin\Debug\net8.0\Api Assignment.runtimeconfig.json
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\bin\Debug\net8.0\Api Assignment.dll
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\bin\Debug\net8.0\Api Assignment.pdb
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.csproj.AssemblyReference.cache
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.AssemblyInfoInputs.cache
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.AssemblyInfo.cs
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.csproj.CoreCompileInputs.cache
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.MvcApplicationPartsAssemblyInfo.cache
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.RazorAssemblyInfo.cache
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.RazorAssemblyInfo.cs
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\staticwebassets.build.json
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\staticwebassets.development.json
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\staticwebassets\msbuild.Api Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\staticwebassets\msbuild.build.Api Assignment.props
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api Assignment.props
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api Assignment.props
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\scopedcss\Views\Shared\_meal.cshtml.rz.scp.css
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\scopedcss\Views\Shared\_movie.cshtml.rz.scp.css
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\scopedcss\Views\Shared\_weather.cshtml.rz.scp.css
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\scopedcss\bundle\Api Assignment.styles.css
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\scopedcss\projectbundle\Api Assignment.bundle.scp.css
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assi.544F6A2A.Up2Date
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.dll
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\refint\Api Assignment.dll
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.pdb
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\Api Assignment.genruntimeconfig.cache
+D:\Morpheus\All Projects\Asp Net projects\Api Assignment\Api Assignment\obj\Debug\net8.0\ref\Api Assignment.dll

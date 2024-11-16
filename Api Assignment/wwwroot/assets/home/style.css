@@ -1,0 +1,114 @@
+@import url('https://fonts.cdnfonts.com/css/baron-neue');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;500&display=swap');
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body{
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+  background: url(bg.jpg) ;
+  background-position:top center;
+  background-size:cover;
+  overflow:hidden;
+  font-family: 'Baron Neue', sans-serif;
+}
+header{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 2rem 5%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1;
+}
+header img {
+  width: 5rem;
+}
+header nav {
+  display: flex;
+  gap: .5rem;
+  justify-content: space-between;
+  align-items: center;
+}
+header nav a  {
+  text-decoration: none;
+  color: #d42c42;
+  text-transform: uppercase;
+  padding: .5rem 1rem;
+  transition: .3s ease-in-out;
+  border: 1px solid transparent;
+}
+header nav a:hover , .active{
+  border-top: 1px solid #d42c42;
+  border-bottom: 1px solid #d42c42;
+}
+section{
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10% 5%;
+}
+section img {
+  width: 32rem;
+}
+section .content h1 {
+  font-size: 5rem;
+  width: 50%;
+  text-transform: uppercase;
+  color: #241b50;
+}
+section .content h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  margin-block: 1.5rem;
+  text-transform: capitalize;
+  color: #d42c42;
+}
+section .content p {
+  width: 70%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  color: #241b50;
+}
+section .content .btn {
+  color: #fff;
+  background: linear-gradient(45deg, #d42c42,#d42c9c);
+  border: none;
+  margin-top: 2rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: .3s ease-in-out;
+  padding: .6rem 1.5rem;
+  border-radius: 100vw;
+}
+section .content .btn:hover{
+  background: linear-gradient(20deg, #d42c9c,#b8263a);
+
+}
+.socialicon{
+  display: flex;
+  gap: 1rem;
+  position: absolute;
+  bottom: 2rem;
+  right: 6%;
+}
+.socialicon ion-icon{
+  background: #d42c42;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: .3s ease;
+  padding: .3rem;
+}
+.socialicon ion-icon:hover{
+  background: #fff;
+  color: #d42c42;
+}
+

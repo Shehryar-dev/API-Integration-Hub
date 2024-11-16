@@ -1,0 +1,36 @@
+﻿@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Home Page";
+
+}
+
+
+<header>
+    <a href="" class="logo">
+        <img src="~/assets/home/logo1.png" class="logo-img"  alt="">
+    </a>
+    <nav>
+        <a asp-action="Index" asp-controller="Home" class="active">home</a>
+        <a asp-action="weather" asp-controller="Home" target="_blank">Weather Api</a>
+        <a asp-action="Movie" asp-controller="Home" target="_blank">Movie Api</a>
+        <a asp-action="meal" asp-controller="Home" target="_blank">Meal Api</a>
+    </nav>
+</header>
+<section >
+    <div class="content" >
+        <h1>Explore APIs for a Connected Future</h1>
+        <h3>Discover the Latest Technological Innovations</h3>
+        <p>
+            Explore a world of possibilities through powerful APIs. From real-time data feeds to interactive experiences,
+            our APIs empower developers to create the future.
+        </p>
+        <button class="btn">Explore APIs</button>
+    </div>
+    <img src="~/assets/home/hero1.png" alt="">
+    <div class="socialicon">
+        <ion-icon name="logo-facebook"></ion-icon>
+        <ion-icon name="logo-instagram"></ion-icon>
+        <ion-icon name="logo-twitter"></ion-icon>
+        <ion-icon name="logo-youtube"></ion-icon>
+    </div>
+</section>

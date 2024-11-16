@@ -1,0 +1,57 @@
+﻿@{
+    Layout = "_movie";
+}
+@model Api_Assignment.Models.Movie
+
+<canvas class="canvas"></canvas>
+<div id="loader-wrapper">
+    <div id="loader"></div>
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+</div>
+
+<div class="main">
+    <h1 class="animate animated fadeInDown h1 text-center mt-5">
+        Morpheus Movie
+        Api
+    </h1>
+    <div class="container w-100 m-auto" style="z-index: 1000;">
+        <form method="post">
+            <input type="text" id="input" name="movie" placeholder="Search Movie" autocomplete="off">
+            <br>
+            <button type="submit" class="btn">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                Search
+            </button>
+        </form>
+    </div>
+</div>
+
+@if (Model != null)
+{
+    <div class="movie_card" id="bright">
+        <div class="info_section">
+            <div class="movie_header">
+                <img class="locandina" src="@Model.Poster" />
+                <h1>@Model.Title</h1>
+                <h4>@Model.Year, @Model.Director</h4>
+                <span class="minutes">@Model.Runtime</span>
+                <p class="type">@Model.Genre</p>
+            </div>
+            <div class="movie_desc">
+                <p class="text">@Model.Plot</p>
+            </div>
+            <div class="movie_social">
+                <ul>
+                    <li><i class="material-icons">share</i></li>
+                    <li><i class="material-icons">🔥</i></li>
+                    <li><i class="material-icons">#Morpheus</i></li>
+                </ul>
+            </div>
+        </div>
+        <div class="blur_back bright_back" style="background: url(@Model.Poster);"></div>
+    </div>
+}

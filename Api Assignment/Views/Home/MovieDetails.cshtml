@@ -1,0 +1,72 @@
+﻿@{
+    Layout = "_movie";
+
+}
+@model Api_Assignment.Models.Movie
+
+<canvas class="canvas"></canvas>
+
+<div class="main " style="margin-top:10%;">
+     <div class="movie_card" id="bright">
+    <div class="info_section">
+        <div class="movie_header">
+            <img class="locandina" src="@Model.Poster" />
+            <h1>@Model.Title</h1>
+            <h4>@Model.Year, @Model.Director</h4>
+            <span class="minutes">@Model.Runtime</span>
+            <p class="type">@Model.Genre</p>
+        </div>
+        <div class="movie_desc">
+            <p class="text">@Model.Plot</p>
+        </div>
+        <div class="movie_social">
+            <ul>
+                <li><i class="material-icons">share</i></li>
+                <li><i class="material-icons">🔥</i></li>
+                <li><i class="material-icons">#Morpheus</i></li>
+            </ul>
+        </div>
+    </div>
+    <div class="blur_back bright_back" style="background: url(@Model.Poster);"></div>
+</div>
+</div>
+<!-- Include your animation script -->
+<script>
+    function animate() {
+        var duration = 15 * 1000;
+        var animationEnd = Date.now() + duration;
+        var skew = 1;
+
+        function randomInRange(min, max) {
+            return Math.random() * (max - min) + min;
+        }
+
+        (function frame() {
+            var timeLeft = animationEnd - Date.now();
+            var ticks = Math.max(200, 500 * (timeLeft / duration));
+            skew = Math.max(0.8, skew - 0.001);
+
+            confetti({
+                particleCount: 1,
+                startVelocity: 0,
+                ticks: ticks,
+                origin: {
+                    x: Math.random(),
+                    y: (Math.random() * skew) - 0.2
+                },
+                colors: ['#ffffff'],
+                shapes: ['circle'],
+                gravity: randomInRange(0.4, 0.6),
+                scalar: randomInRange(0.4, 1),
+                drift: randomInRange(-0.4, 0.4)
+            });
+
+            if (timeLeft > 0) {
+                requestAnimationFrame(frame);
+            }
+        }());
+    }
+
+    // Call the animate function to start the animation
+    animate();
+</script>

@@ -1,0 +1,30 @@
+﻿@{
+    Layout = "_meal";
+}
+@model List<Meal>
+
+<div id="loader-wrapper">
+    <div id="loader"></div>
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+</div>
+<div class="container mt-5">
+    <div class="row m-auto" id="mealDetails">
+        @foreach (var meal in Model)
+        {
+            <div class="col col-md-4 mb-4 m-auto">
+                <div class="card">
+                    <img src="@meal.StrMealThumb" />
+                    <div class="content-box">
+                        <h4 class="name">@meal.StrMeal</h4>
+                        <p>Onion, Lettuce, Tomato, Patty, Cheese <span>@meal.IdMeal</span></p>
+                        <div class="btn">
+                            <h2 class="price">$40</h2>
+                            <a onclick="animate()">Order Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
