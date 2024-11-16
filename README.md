@@ -19,6 +19,12 @@ Each API interaction has been designed for seamless user experience and efficien
 
 ## Preview
 
+### Application Screenshots:
+- **First Page Screenshot**:
+  ![First Page Screenshot](Api%20Assignment/wwwroot/screens/home.png)
+
+-----
+
 ### GIF Demos:
 - **Weather API Integration**:
   ![Weather API GIF](Api%20Assignment/wwwroot/screens/weather-api.gif)
@@ -28,10 +34,6 @@ Each API interaction has been designed for seamless user experience and efficien
 
 - **Meal API Integration**:
   ![Meal API GIF](Api%20Assignment/wwwroot/screens/meal-api.gif)
-
-### Application Screenshots:
-- **First Page Screenshot**:
-  ![First Page Screenshot](Api%20Assignment/wwwroot/screens/home.png)
 
 ----
 
